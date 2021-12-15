@@ -2,7 +2,7 @@
 
 College Advising Tool <br>
 <a href="https://github.com/apuder/advising">https://github.com/apuder/advising</a><br><br>
-Easy Remote Push iOS Notifications 
+Easy Remote Push iOS Notifications <br>
 <a href="https://github.com/joseortizcostadev/EasyRemotePushNotifications">https://github.com/joseortizcostadev/EasyRemotePushNotifications</a><br><br>
 Social Media Site <br>
 <a href="https://github.com/rquinones93/devconnector">https://github.com/rquinones93/devconnector</a><br><br>
