@@ -14,8 +14,10 @@ TRSI-IO - Online capabilities for TRS-80<br>
 <a href="https://github.com/apuder/TRS-IO">https://github.com/apuder/TRS-IO</a><br><br>
 Pagedown <br>
 <a href="https://github.com/ir-sfsu/pagedown">https://github.com/ir-sfsu/pagedown</a><br><br>
+Chatt App <br>
+<a href="https://github.com/Miguel619/chat-app">https://github.com/Miguel619/chat-app</a><br><br>
+GatorTrade <br>
+<a href="https://github.com/rquinones93/GatorTrade">https://github.com/rquinones93/GatorTrade</a><br><br>
+Photiify <br>
+<a href="https://github.com/mecosteas/Photify">https://github.com/mecosteas/Photify</a><br><br>
 <a href=""></a>
-<a href=""></a>
-<a href=""></a>
-
-# opensource-sfsuhub
